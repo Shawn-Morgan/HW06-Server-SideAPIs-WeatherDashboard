@@ -1,10 +1,16 @@
 # HW06-Server-SideAPIs-WeatherDashboard
 ## weather dashboard
 
-# api key = 1bbb3745f77de7afcb359aa19c1818f0
+# api key = <>
 https://home.openweathermap.org/api_keys
 
-# requirements --> 
+# github pages: https://shawn-morgan.github.io/HW06-Server-SideAPIs-WeatherDashboard/
+# github: https://github.com/Shawn-Morgan/HW06-Server-SideAPIs-WeatherDashboard
+
+# Requirements --> 
 ## search by city
 ## current forecast
 ## 5-day forecast
+## UV+
+
+# Enter city to search current weather & 5 day forecast. Remembers previously entered cities.  
