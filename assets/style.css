@@ -1,0 +1,17 @@
+:root {
+    background-color: grey;
+}
+
+::before, ::after {
+    box-sizing: border-box;
+    font-family: fantasy;
+}
+
+.btn-hover {
+    border-color: black;
+}
+
+.h1 {
+    font-size: medium;
+    font-stretch: condensed;
+}
